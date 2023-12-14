@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/MPetugas.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/LapPendapatan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/TBuktiPesan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Model/Pelanggan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/MPelanggan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_LapPelanggan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/LapStok.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Koneksi/Database.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/DAO/Model_DAO.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_Pelanggan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/DAO/DAO_Kategori.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/LapPelanggan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/lib/database.ini</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/DAO/DAO_Barang.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_LapPendapatan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/MenuUtama.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_Barang.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_BuktiPesan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_LapStok.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_Kategori.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/DAO/DAO_Pelanggan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/MBarang.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/View/MKategoriBarang.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/DAO/DAO_Petugas.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Model/Barang.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Model/LapPendapatan.java</file>
+            <file>file:/C:/Users/Infinix/Documents/NetBeansProjects/SistemPenjualan_2112500067/src/Controller/Controller_Petugas.java</file>
+        </group>
+    </open-files>
+</project-private>
